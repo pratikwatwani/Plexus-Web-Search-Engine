@@ -1,0 +1,19 @@
+#top_query p{
+	border-bottom: 2px solid red;
+	color: white;
+	width: 100px;
+}
+#top_query ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 40%;
+}
+#top_query ul li{
+	border: 2px solid #eee;
+	background-color: #eee;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
