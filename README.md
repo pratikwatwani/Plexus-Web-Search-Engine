@@ -24,7 +24,7 @@ Plexus is search engine which uses keyword or phrase as a input.It returns resul
         Other than above, It use log file to analye for frequeny used query for building Top query list .
 	This list is buid on the basis of last 30 days and it updates the list every time.
         
- # Tehnology used:
+#Tehnology used:
         <ul>
         <li>PHP</li>
         <li>HTML</li>
