@@ -25,14 +25,13 @@ Plexus is search engine which uses keyword or phrase as a input.It returns resul
 	This list is buid on the basis of last 30 days and it updates the list every time.
         
 #Tehnology used:
-        <ul>
-        <li>PHP</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JQUERY</li>
-        <li>AJAX</li>
-        <li>PYTHON</li>
-        <li>MYSQL</li>
-        <li>GOOGLE VOICE TO TEXT API</li>
-        </ul>
+
+        PHP
+        HTML
+        CSS
+        JQUERY
+        AJAX
+        PYTHON
+        MYSQL
+        GOOGLE VOICE TO TEXT API
 
