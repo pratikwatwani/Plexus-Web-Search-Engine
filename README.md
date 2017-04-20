@@ -10,12 +10,12 @@ Plexus is search engine which uses keyword or phrase as a input.It returns resul
 	
 	If result is found in the database then it is directly returned to the user.
 	else It is further checked for relationship with other key terms.
-	If relationship is found then all the result related to kery terms are returned to the user like
+	If relationship is found then all the result related to key terms are returned to the user like
 	FaceBook,face book, fb are terms 
-	which are to certain way related by replacing certain character.
+	which are related by replacing certain character.
 	
         Other than manual typing , It uses Google Voice API for searching the result.
-	API takes voice as a input and convert it to text for automatically tyoing for the user.
+	API takes voice as a input and convert it to text for automatically typing for the user.
 	Main intention of this feature was to Allow Physically disable people to access this engine via voice.
         
         It also Uses Crawler for crawling inside the requested page and return many more results.
