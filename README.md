@@ -1,7 +1,7 @@
-#About:
+# Intro:
 Plexus is search engine which uses keyword or phrase as a input.It returns result if page is present in the database.
 
-#Working:
+# Working:
 	Like other Search Engine it uses Spell corrector to correct the keyword or phrases if misspelled.
 	This input is then passed for security checkup.
 	Here, Code is Tested for various types of security attack like sql,php. Code is converted to string
@@ -24,7 +24,7 @@ Plexus is search engine which uses keyword or phrase as a input.It returns resul
         Other than above, It use log file to analye for frequeny used query for building Top query list .
 	This list is buid on the basis of last 30 days and it updates the list every time.
         
-#Tehnology used:
+# Tehnology used:
 
         PHP
         HTML
@@ -35,3 +35,9 @@ Plexus is search engine which uses keyword or phrase as a input.It returns resul
         MYSQL
         GOOGLE VOICE TO TEXT API
 
+# Development tools:
+	Apache server
+	php 5.6
+	MySQL 5.6
+	python 2.7.x
+	google chrome latest
