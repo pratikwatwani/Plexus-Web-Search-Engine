@@ -1,4 +1,4 @@
-# Intro:
+# Intro
 Plexus is search engine which uses keyword or phrase as a input.It returns result if page is present in the database.
 
 # Working:
@@ -12,14 +12,14 @@ Other than manual typing , It uses Google Voice API for searching the result. AP
 Other than above, It use log file to analye for frequeny used query for building Top query list. This list is buid on the basis of last 30 days and it updates the list every time.
         
 # Tehnology used:
-PHP
-HTML        
-CSS
-JQUERY
-AJAX
-PYTHON
-MYSQL
-GOOGLE VOICE TO TEXT API
+PHP</br>
+HTML</br>        
+CSS</br>
+JQUERY</br>
+AJAX</br>
+PYTHON</br>
+MYSQL</br>
+GOOGLE VOICE TO TEXT API</br>
 
 # Development tools:
 Apache server
