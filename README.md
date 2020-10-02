@@ -12,19 +12,18 @@ Other than manual typing , It uses Google Voice API for searching the result. AP
 Other than above, It use log file to analye for frequeny used query for building Top query list. This list is buid on the basis of last 30 days and it updates the list every time.
         
 # Tehnology used:
-
-        PHP
-        HTML
-        CSS
-        JQUERY
-        AJAX
-        PYTHON
-        MYSQL
-        GOOGLE VOICE TO TEXT API
+PHP
+HTML        
+CSS
+JQUERY
+AJAX
+PYTHON
+MYSQL
+GOOGLE VOICE TO TEXT API
 
 # Development tools:
-	Apache server
-	php 5.6
-	MySQL 5.6
-	python 2.7.x
-	google chrome latest
+Apache server
+php 5.6
+MySQL 5.6
+python 2.7.x
+google chrome latest
