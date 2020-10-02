@@ -13,7 +13,7 @@ Other than above, It use log file to analye for frequeny used query for building
         
 # Tehnology used:
 PHP</br>
-HTML</br>        
+HTML</br>
 CSS</br>
 JQUERY</br>
 AJAX</br>
@@ -22,8 +22,8 @@ MYSQL</br>
 GOOGLE VOICE TO TEXT API</br>
 
 # Development tools:
-Apache server
-php 5.6
-MySQL 5.6
-python 2.7.x
-google chrome latest
+Apache server</br>
+php 5.6</br>
+MySQL 5.6</br>
+python 2.7.x</br>
+google chrome latest</br>
